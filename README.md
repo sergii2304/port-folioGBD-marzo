@@ -1,6 +1,8 @@
 # port-folioGBD-marzo
 Porfolio de GBD segundo trimestre
-Resumen
+
+**Resumen**
+
 En este trimestre hemos visto las diferentes consultas que se pueden hacer, como por ejemplo,
 hemos echo consultas basicas en donde sacamos nombres, números y diferentes cosas aunque 
 utilizando solo una tabla.
