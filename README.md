@@ -50,6 +50,10 @@ como 4,5 y 6 más o menos si que las iba sacando aunque me costasen bastante.
 
 ## **Ejercicios de invención**
 
+* Ejercicio 1
+
+* Ejercicio 2
+
 ## **Conclusión**
 Pues las dificultades que he tenido ha sido a la hora de entender las consultas dentro de otras consultas,
 aunque las consultas simples las he entendido más o menos y me iban saliendo, cosa que las dificiles no me
