@@ -71,7 +71,20 @@ como 4,5 y 6 más o menos si que las iba sacando aunque me costasen bastante.
 
 * Ejercicio 1
 
+
+    He creado una consulta que nos mostrará el número total de goles que se han marcado en la 
+    primera parte, es decir, en los 45 primeros minutos.
+
+  ![img_6.png](img_6.png)
+
 * Ejercicio 2
+
+
+    He creado una consulta  que nos muestra todas las provincias de Galicia, con la media de su 
+    población, con un formato de tres cifras decimales y ordenado por la media de población de mayor 
+    a menor.
+
+  ![img_8.png](img_8.png)
 
 ## **Conclusión**
 Pues las dificultades que he tenido ha sido a la hora de entender las consultas dentro de otras consultas,
