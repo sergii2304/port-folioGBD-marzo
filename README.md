@@ -24,6 +24,7 @@ como 4,5 y 6 más o menos si que las iba sacando aunque me costasen bastante.
 * Consultas de varias tablas usando algún tipo de JOIN con ON y/o USING
 * Consultas que usen CROSS JOIN 
 * Consultas que usen LEFT OUTER JOIN
+    ![img.png](img.png)
 * Consultas que usen SUM, AVG, COUNT, MAX o MIN
 * Consultas que usen HAVING
 
