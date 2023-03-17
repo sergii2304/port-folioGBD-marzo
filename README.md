@@ -22,11 +22,31 @@ como 4,5 y 6 más o menos si que las iba sacando aunque me costasen bastante.
 ## **Ejercicios significativos**
 
 * Consultas de varias tablas usando algún tipo de JOIN con ON y/o USING
-* Consultas que usen CROSS JOIN 
+  * Es el Ejercicio 3 de geografia
+  
+![img_2.png](img_2.png)
+
+* Consultas que usen CROSS JOIN
+  * Es el Ejercicio 15 de almacen
+  
+![img_1.png](img_1.png)
+
 * Consultas que usen LEFT OUTER JOIN
-    ![img.png](img.png)
+  * Es el Ejercicio 13 de almacen
+  
+![img.png](img.png)
+
 * Consultas que usen SUM, AVG, COUNT, MAX o MIN
+
+    * Es el Ejercicio 8 de futbol
+  
+![img_3.png](img_3.png)
+
 * Consultas que usen HAVING
+
+  * Es el Ejercicio 5 de NBA
+
+![img_4.png](img_4.png)
 
 ## **Ejercicios de invención**
 
