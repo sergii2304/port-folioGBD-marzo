@@ -24,29 +24,48 @@ como 4,5 y 6 más o menos si que las iba sacando aunque me costasen bastante.
 * Consultas de varias tablas usando algún tipo de JOIN con ON y/o USING
   * Es el Ejercicio 3 de geografia
   
+
+    En este ejercicio nos pide hacer una consulta para mostrar el nombre de cada 
+    localidad, la provincia en la que está y su comunidad.
+
 ![img_2.png](img_2.png)
 
 * Consultas que usen CROSS JOIN
   * Es el Ejercicio 15 de almacen
   
+
+    En este ejercicio nos pide hacer una consulta en la que muestre el nombre de 
+    las empresas que están en la misma provincia
+
 ![img_1.png](img_1.png)
 
 * Consultas que usen LEFT OUTER JOIN
   * Es el Ejercicio 13 de almacen
   
+    
+    Vamos a crear una consulta en donde nos muestre el tipo y modelo de piezas 
+    que no tenemos en ningún almacén.
+    
 ![img.png](img.png)
 
 * Consultas que usen SUM, AVG, COUNT, MAX o MIN
 
     * Es el Ejercicio 8 de futbol
-  
+
+
+    En esta consulta vamos a mostrar el record de goles marcado por un solo jugador.
+
 ![img_3.png](img_3.png)
 
 * Consultas que usen HAVING
 
-  * Es el Ejercicio 5 de NBA
+  * Es el Ejercicio 6 de NBA
+  
+  
+    En esta consulta tenmeos que mostrar el nombre y ciudad de los equipos que han perdido más de 25 partidos en casa en
+    la temporada 2021-22.
 
-![img_4.png](img_4.png)
+![img_5.png](img_5.png)
 
 ## **Ejercicios de invención**
 
