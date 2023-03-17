@@ -65,7 +65,7 @@ como 4,5 y 6 más o menos si que las iba sacando aunque me costasen bastante.
     En esta consulta tenmeos que mostrar el nombre y ciudad de los equipos que han perdido más de 25 partidos en casa en
     la temporada 2021-22.
 
-![img_5.png](img_5.png)
+  ![img_5.png](img_5.png)
 
 ## **Ejercicios de invención**
 
